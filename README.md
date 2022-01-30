@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomilenko95)](https://github.com/tomilenko95/github-readme-stats)
+
+
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-1E1E1E?style=for-the-badge&logo=python&logoColor=3674A5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1E1E1E?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
