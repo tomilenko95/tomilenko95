@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomilenko95)](https://github.com/tomilenko95/github-readme-stats)
+![UnBest's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomilenko95&show_icons=true&theme=radical)
 
 
 ### Languages and Tools
