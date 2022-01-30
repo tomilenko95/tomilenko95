@@ -1,4 +1,4 @@
-![UnBest's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomilenko95&show_icons=true&theme=radical)
+![UnBest's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomilenko95&show_icons=true&theme=cobalt)
 
 
 ### Languages and Tools
