@@ -1,6 +1,7 @@
 ### Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnBest&count_private=true&locale=ru&theme=github_dark&hide_border=true&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=UnBest&count_private=true&theme=github_dark&locale=ru&&hide_border=true&disable_animations=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuK050&count_private=true&locale=ru&theme=github_dark&hide_border=true&layout=compact)
 
 
 
